@@ -8,4 +8,4 @@
 3. Создаем новый массив из отобранных элементов. 
 4. Выводим исходный и полученный массив в терминале.
 
-![alt-текст](https://github.com/Amokke/ControlWorks1/blob/main/diagram.png"Алгоритм")
+!["Алгоритм"](https://github.com/Amokke/ControlWorks1/blob/main/diagram.png)
